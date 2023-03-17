@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "insomnia",
+      "author": "Victor"
+    },
+    {
+      "id": 3,
+      "title": "programaçao web",
+      "author": "Victor"
+    },
+    [
+      {
+        "id": 1,
+        "title": "json",
+        "author": "Victor"
+      }
+    ],
+    [
+      {
+        "id": 4,
+        "title": "json",
+        "author": "Victor"
+      }
+    ]
+  ],
+  "comments": [
+    [
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 2
+      }
+    ],
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode",
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  }
+}
